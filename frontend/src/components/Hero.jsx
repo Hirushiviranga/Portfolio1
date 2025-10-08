@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import '../App.css';
 
+
 const Hero = () => {
   const typedRef = useRef(null);
 
