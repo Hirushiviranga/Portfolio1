@@ -33,7 +33,7 @@ const Contact = () => {
         <div className="section-title">
           <h2>Contact</h2>
           <p>
-            I’m always excited to connect with new people, whether it’s to collaborate on a project, share ideas, or explore opportunities. Feel free to drop me a message—I’d love to hear from you!
+            I’m always excited to connect with new people, whether it’s to collaborate on a project, share ideas, or explore opportunities. Feel free to drop me a message.I’d love to hear from you!
           </p>
         </div>
 
@@ -95,10 +95,7 @@ const Contact = () => {
               <div className="text-center">
                 <button type="submit">Send Message</button>
               </div>
-              <p> </p>
-              <div className="text-center">
-                <button type="submit">Get in Touch With Me</button>
-              </div>
+              
             </form>
           </div>
 

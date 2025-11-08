@@ -12,7 +12,7 @@ const About = () => {
 
             My journey in the tech and creative fields is fueled by curiosity and a strong desire to blend functionality with aesthetics. I love bringing ideas to life through clean, responsive web designs, compelling content, and visually appealing user interfaces.
 
-            Beyond coding, I enjoy expressing myself through words and visuals—crafting stories, creating engaging digital content, and designing meaningful experiences that connect with people.
+            Beyond coding, I enjoy expressing myself through words and visuals,crafting stories, creating engaging digital content, and designing meaningful experiences that connect with people.
 
             As I continue to grow as a developer and creator, I’m always eager to learn new tools, take on exciting projects, and collaborate with others who share a passion for innovation and creativity.
 
